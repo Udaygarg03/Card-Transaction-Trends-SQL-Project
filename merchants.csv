@@ -1,0 +1,21 @@
+merchant_name,merchant_category,risk_level
+Merchant_1,Office Supplies,Low
+Merchant_2,Office Supplies,Low
+Merchant_3,Office Supplies,Low
+Merchant_4,Consulting,Low
+Merchant_5,Software,Medium
+Merchant_6,Travel,Low
+Merchant_7,Office Supplies,Low
+Merchant_8,Food,Low
+Merchant_9,Office Supplies,Low
+Merchant_10,Food,Medium
+Merchant_11,Food,Low
+Merchant_12,Office Supplies,High
+Merchant_13,Consulting,Medium
+Merchant_14,Food,Low
+Merchant_15,Food,Low
+Merchant_16,Office Supplies,Medium
+Merchant_17,Food,Medium
+Merchant_18,Food,Medium
+Merchant_19,Office Supplies,Medium
+Merchant_20,Office Supplies,Low
